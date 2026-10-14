@@ -4,7 +4,8 @@
 
 A free desktop app for organizing your music library. Built with Python.
 
-![Screenshot](screenshot.png)
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/a6a34a0c-c4d8-42dd-b072-d51f1fccfc92" />
+
 
 ## Features
 - Keep your songs in numerical order (reorder, or sort by title, artist, BPM, key or colour)
