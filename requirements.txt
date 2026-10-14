@@ -1,0 +1,4 @@
+mutagen
+librosa
+numpy
+Pillow
