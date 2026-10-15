@@ -25,6 +25,9 @@ A free desktop app for organizing your music library. Built with Python.
 - BPM detection can occasionally come out at half or double speed on unusual tracks.
 - Your library list is stored locally in `library.json`.
 - This project does not include any music or FFmpeg.
+- Built-in music player with a DJ-style jog wheel, album art, BPM and key display
+- Fix capitalization of titles, artists and albums in one click
+- Select all and copy music to another folder, or export numbered copies 
 
 ## License
 GPL-3.0. See the `LICENSE` file.
